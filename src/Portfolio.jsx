@@ -65,7 +65,7 @@ window.open("../assets/Ariel-Labuson-CV-Resume.pdf", "_blank");
       id: 1,
       title: "E-Commerce and Online Networking",
       category: "web",
-      image: "../public/assets/wemultiply.png",
+      image: "../assets/wemultiply.png",
       description: "Modern e-commerce platform with React and Node.js featuring real-time inventory management and secure payment processing.",
       tech: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
       liveUrl: "https://wemultiplyapp.com/",
@@ -75,7 +75,7 @@ window.open("../assets/Ariel-Labuson-CV-Resume.pdf", "_blank");
       id: 2,
       title: "Web Game",
       category: "web",
-      image: "../public/assets/rhythmix master.png",
+      image: "../assets/rhythmix master.png",
       description: "Interactive web game for kids to learn music and rhythm.",
       tech: ["PHP", "AJAX", "MySQL", "JavaScript", "HTML", "CSS"],
       liveUrl: "#",
@@ -85,7 +85,7 @@ window.open("../assets/Ariel-Labuson-CV-Resume.pdf", "_blank");
       id: 3,
       title: "eCommerce and inventory management",
       category: "web",
-      image: "../public/assets/pc bulacan.png",
+      image: "../assets/pc bulacan.png",
       description: "Online platform for PC parts and accessories with advanced search and filtering options.",
       tech: ["PHP", "AJAX", "MySQL", "JavaScript", "HTML", "CSS"],
       liveUrl: "#",
@@ -95,7 +95,7 @@ window.open("../assets/Ariel-Labuson-CV-Resume.pdf", "_blank");
       id: 4,
       title: "My capstone project",
       category: "web",
-      image: "../assets/upahan.png",
+      image: "../asset/upahan.png",
       description: "My capstone project is a comprehensive platform for rental Apartments Online.",
       tech: ["PHP", "AJAX", "MySQL", "JavaScript", "HTML", "CSS"],
       liveUrl: "#",
@@ -105,7 +105,7 @@ window.open("../assets/Ariel-Labuson-CV-Resume.pdf", "_blank");
       id: 5,
       title: "Mobile Complain and Tracking App",
       category: "mobile",
-      image: "../public/assets/prolilan.jpg",
+      image: "../assets/prolilan.jpg",
       description: "Comprehensive mobile app for barangay complain.",
       tech: ["React Native", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
       liveUrl: "#",
@@ -237,7 +237,7 @@ window.open("../assets/Ariel-Labuson-CV-Resume.pdf", "_blank");
                   {/* Profile Image */}
                   <div className="text-center lg:text-left">
 
-                      <img className='w-64 h-64 mx-auto lg:mx-0 bg-gradient-to-br from-purple-400 to-pink-400 rounded-full flex items-center justify-center mb-6' src={'../public/assets/profile.jpg'} alt="" />
+                      <img className='w-64 h-64 mx-auto lg:mx-0 bg-gradient-to-br from-purple-400 to-pink-400 rounded-full flex items-center justify-center mb-6' src={'../assets/profile.jpg'} alt="" />
                     
                     {/* Stats */}
                     <div className="grid grid-cols-3 gap-4 mt-8">
