@@ -57,7 +57,7 @@ const Portfolio = () => {
     ]
   };
 const handleViewResume = () => {
-window.open("../public/assets/Ariel-Labuson-CV-Resume.pdf", "_blank");  
+window.open("../assets/Ariel-Labuson-CV-Resume.pdf", "_blank");  
 };
   // Sample project data
   const projects = [
@@ -95,7 +95,7 @@ window.open("../public/assets/Ariel-Labuson-CV-Resume.pdf", "_blank");
       id: 4,
       title: "My capstone project",
       category: "web",
-      image: "../public/assets/upahan.png",
+      image: "../assets/upahan.png",
       description: "My capstone project is a comprehensive platform for rental Apartments Online.",
       tech: ["PHP", "AJAX", "MySQL", "JavaScript", "HTML", "CSS"],
       liveUrl: "#",
